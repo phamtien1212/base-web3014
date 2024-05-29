@@ -1,0 +1,21 @@
+{
+    "name": "asus/base-web3014",
+    "autoload": {
+        "psr-4": {
+            "Asus\\BaseWeb3014\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phamtien1212",
+            "email": "pt100603@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
