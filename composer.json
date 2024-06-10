@@ -3,7 +3,11 @@
     "autoload": {
         "psr-4": {
             "Asus\\BaseWeb3014\\": "src/"
-        }
+        },
+        "files": [
+            "helper.php"
+        ]
+
     },
     "authors": [
         {
